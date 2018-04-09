@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Exploration"
+author: "Richard Penfil"
+categories: documentation
+tags: [documentation,sample]
+image: city-2.jpg
+---
 
 ## U.S. Permanent Visa Applications
 Below is a simple initial exploration of a dataset of containing US permanent Visa Applications (which can be found here: https://www.kaggle.com/jboysen/us-perm-visas)
