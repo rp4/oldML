@@ -1,7 +1,7 @@
 
 ## U.S. Permanent Visa Applications
 Below is a simple initial exploration of a dataset of containing US permanent Visa Applications (which can be found here: https://www.kaggle.com/jboysen/us-perm-visas)
-While every dataset is different, and will need individualized care, these are some initial steps to start to understand and clean a dataset.
+While every dataset is different, and will need individualized massaging, these are some initial steps to start to understand and clean a dataset.
 
 
 ```python
