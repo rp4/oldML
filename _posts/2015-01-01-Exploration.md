@@ -4,7 +4,7 @@ title: "Exploration"
 author: "Richard Penfil"
 categories: documentation
 tags: [documentation,sample]
-image: city-2.jpg
+image: visa_pic.jpg
 ---
 
 ## U.S. Permanent Visa Applications
@@ -346,8 +346,7 @@ plt.ylabel("Approval %")
 
 
 
-
-![png](exploration_files/exploration_14_1.png)
+<a href="https://rp4.github.io/exploration_1/"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_1.jpg"></a>
 
 
 ## Histograms (Approved vs Decline)
@@ -379,7 +378,7 @@ plt.show()
     
 
 
-![png](exploration_files/exploration_16_1.png)
+<a href="https://rp4.github.io/exploration_2/"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_2.jpg"></a>
 
 
 
