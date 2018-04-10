@@ -346,7 +346,7 @@ plt.ylabel("Approval %")
 
 
 
-<a href="https://rp4.github.io/documentation/Exploration.html"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_1.jpg"></a>
+<a href="https://rp4.github.io/documentation/Exploration.html"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_1.png"></a>
 
 
 ## Histograms (Approved vs Decline)
