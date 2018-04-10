@@ -4,12 +4,16 @@ title: "Exploration"
 author: "Richard Penfil"
 categories: documentation
 tags: [documentation,sample]
+<<<<<<< HEAD
 image: city-2.jpg
+=======
+image: visa_pic.jpg
+>>>>>>> gh-pages
 ---
 
 ## U.S. Permanent Visa Applications
 Below is a simple initial exploration of a dataset of containing US permanent Visa Applications (which can be found here: https://www.kaggle.com/jboysen/us-perm-visas)
-While every dataset is different, and will need individualized care, these are some initial steps to start to understand and clean a dataset.
+While every dataset is different, and will need individualized massaging, these are some initial steps to start to understand and clean a dataset.
 
 
 ```python
@@ -331,8 +335,7 @@ plt.ylabel("Approval %")
 
 
 
-
-![png](exploration_files/exploration_14_1.png)
+<a href="https://rp4.github.io/exploration_1/"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_1.jpg"></a>
 
 
 ## Histograms (Approved vs Decline)
@@ -364,7 +367,7 @@ plt.show()
     
 
 
-![png](exploration_files/exploration_16_1.png)
+<a href="https://rp4.github.io/exploration_2/"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_2.jpg"></a>
 
 
 
