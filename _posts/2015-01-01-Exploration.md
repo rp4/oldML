@@ -371,11 +371,7 @@ for i, cn in enumerate(df[salaries]):
     ax.set_xlabel('')
     ax.set_title('histogram of feature: ' + str(cn))
 plt.show()
-```
-
-    C:\Users\user0\AppData\Local\Continuum\Anaconda3\lib\site-packages\statsmodels\nonparametric\kdetools.py:20: VisibleDeprecationWarning: using a non-integer number instead of an integer will result in an error in the future
-      y = X[:m/2+1] + np.r_[0,X[m/2+1:],0]*1j
-    
+```    
 
 
 <a href="https://rp4.github.io/documentation/Exploration.html"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_2.png"></a>
