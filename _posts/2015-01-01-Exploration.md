@@ -4,11 +4,7 @@ title: "Exploration"
 author: "Richard Penfil"
 categories: documentation
 tags: [documentation,sample]
-<<<<<<< HEAD
-image: city-2.jpg
-=======
 image: visa_pic.jpg
->>>>>>> gh-pages
 ---
 
 ## U.S. Permanent Visa Applications
