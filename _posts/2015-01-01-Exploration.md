@@ -360,9 +360,7 @@ plt.show()
       y = X[:m/2+1] + np.r_[0,X[m/2+1:],0]*1j
     
 
-
-<a href="https://rp4.github.io/exploration_2/"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_2.jpg"></a>
-
+<a href="https://rp4.github.io/documentation/Exploration.html"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_2.png"></a>
 
 
 ```python
