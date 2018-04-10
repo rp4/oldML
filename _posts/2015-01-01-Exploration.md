@@ -330,9 +330,7 @@ plt.ylabel("Approval %")
     <matplotlib.text.Text at 0x20bbb0c9eb8>
 
 
-
-<a href="https://rp4.github.io/exploration_1/"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_1.jpg"></a>
-
+<a href="https://rp4.github.io/documentation/Exploration.html"><img src="{{ site.github.url }}/assets/img/exploration_files/exploration_1.png"></a>
 
 ## Histograms (Approved vs Decline)
 
