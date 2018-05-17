@@ -4,7 +4,7 @@ title: "Random Forest"
 author: "Richard Penfil"
 categories: Algorithm
 tags: [Random Forest, Machine Learning]
-image: forest_pic.jpg
+image: Forest_pic.jpg
 ---
 
 #### Below is an example of a Random Forest model. I used dataset (found here:https://www.kaggle.com/mlg-ulb/creditcardfraud/data), which contains credit card transactions over a two day period. The model created attempts to identify fraudulent transactions based on the provided (masked) attributes.
