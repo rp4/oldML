@@ -41,7 +41,7 @@ plt.xlabel('Predicted label')
 
 
 
-![png](Naive_Bayes_files/Naive_Bayes_2_1.png)
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/Bayes_files/Naive_Bayes_1.png"><img src="{{ site.github.url }}/assets/img/Bayes_files/Naive_Bayes_1.png"></a>
 
 
 
@@ -64,7 +64,7 @@ plt.show()
 ```
 
 
-![png](Naive_Bayes_files/Naive_Bayes_3_0.png)
+!<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/Bayes_files/Naive_Bayes_2.png"><img src="{{ site.github.url }}/assets/img/Bayes_files/Naive_Bayes_2.png"></a>
 
 
 
@@ -87,8 +87,7 @@ plt.legend(loc='best')
 plt.show()
 ```
 
-
-![png](Naive_Bayes_files/Naive_Bayes_4_0.png)
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/Bayes_files/Naive_Bayes_3.png"><img src="{{ site.github.url }}/assets/img/Bayes_files/Naive_Bayes_3.png"></a>
 
 
 Based on the receiver operating characteristic curve, the decision tree model is superior to naive bayes on this dataset, as the area under the curve is larger. 
