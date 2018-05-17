@@ -15,8 +15,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Richard's Repository"
-description:	       "an assortment of Machine Learning algos"
-author:              "Richard P"
+description:	       "an assortment of Machine Learning algorithms, projects, and techniques"
+author:              "Richard Penfil"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
