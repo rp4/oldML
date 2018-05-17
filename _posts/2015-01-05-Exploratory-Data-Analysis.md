@@ -2,8 +2,8 @@
 layout: post
 title: "Exploratory Data Analysis"
 author: "Richard Penfil"
-categories: facts
-tags: [documentation,sample]
+categories: Algorithm
+tags: [Decision Tree, Machine Learning]
 image: ledingclub_pic.jpg
 ---
 
