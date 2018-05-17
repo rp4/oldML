@@ -7,7 +7,7 @@ tags: [Random Forest, Machine Learning]
 image: Forest_pic.jpg
 ---
 
-#### Below is an example of a Random Forest model. I used dataset (found here:https://www.kaggle.com/mlg-ulb/creditcardfraud/data), which contains credit card transactions over a two day period. The model created attempts to identify fraudulent transactions based on the provided (masked) attributes.
+#### Below is an example of a Random Forest model.I used a [kaggle dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud/data), which contains credit card transactions over a two day period. The model created attempts to identify fraudulent transactions based on the provided (masked) attributes.
 
 # Quick and Simple EDA
 
