@@ -7,7 +7,7 @@ tags: [Gradient Boosting, Machine Learning]
 image: gradient_boosting_head.jpg
 ---
 
-#### Below is an example of a Gradient Boosting model. I used a loan dataset (found here:https://www.kaggle.com/zhijinzhai/loandata), which contains loans that customers paid off or neglected to pay. The model created attempts to quantify the risk of each customer.
+#### Below is an example of a Gradient Boosting model. I used a [loan dataset](https://www.kaggle.com/zhijinzhai/loandata), which contains loans that customers paid off or neglected to pay. The model created attempts to quantify the risk of each customer.
 
 
 ```python
