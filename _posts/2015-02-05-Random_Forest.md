@@ -81,7 +81,7 @@ plt.show()
     
 
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_files/Random_Forest_1.png"><img src="{{ site.github.url }}/assets/img/RF_files/Random_Forest_1.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_Files/Random_Forest_1.png"><img src="{{ site.github.url }}/assets/img/RF_Files/Random_Forest_1.png"></a>
 
 
 From above, we see that the data is extremely unbalanced with only 0.172% fraudulent transactions. 
@@ -114,7 +114,7 @@ sns.heatmap(corr, mask=mask, cmap="YlGnBu", vmax=.3, center=0,
 
 
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_files/Random_Forest_2.png"><img src="{{ site.github.url }}/assets/img/RF_files/Random_Forest_2.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_Files/Random_Forest_2.png"><img src="{{ site.github.url }}/assets/img/RF_Files/Random_Forest_2.png"></a>
 
 
 
@@ -198,7 +198,7 @@ plt.show();
 ```
 
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_files/Random_Forest_3.png"><img src="{{ site.github.url }}/assets/img/RF_files/Random_Forest_3.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_Files/Random_Forest_3.png"><img src="{{ site.github.url }}/assets/img/RF_Files/Random_Forest_3.png"></a>
 
 
 
@@ -242,7 +242,7 @@ plt.xlabel('Relative Importance')
 
 
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_files/Random_Forest_4.png"><img src="{{ site.github.url }}/assets/img/RF_files/Random_Forest_4.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_Files/Random_Forest_4.png"><img src="{{ site.github.url }}/assets/img/RF_Files/Random_Forest_4.png"></a>
 
 
 
@@ -294,7 +294,7 @@ plt.xlabel('Predicted label')
 
 
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_files/Random_Forest_5.png"><img src="{{ site.github.url }}/assets/img/RF_files/Random_Forest_5.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_Files/Random_Forest_5.png"><img src="{{ site.github.url }}/assets/img/RF_Files/Random_Forest_5.png"></a>
 
 
 #### ROC Curve
@@ -318,7 +318,7 @@ plt.show()
 ```
 
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_files/Random_Forest_6.png"><img src="{{ site.github.url }}/assets/img/RF_files/Random_Forest_6.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/RF_Files/Random_Forest_6.png"><img src="{{ site.github.url }}/assets/img/RF_Files/Random_Forest_6.png"></a>
 
 
 
