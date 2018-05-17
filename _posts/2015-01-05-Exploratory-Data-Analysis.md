@@ -67,8 +67,7 @@ plt.show()
 ```
 
 
-![alt text](https://github.com/rp4/rp4.github.io/blob/master/assets/img/EDA_files/EDA_1.png)
-
+<a href="https://rp4.github.io/algorithm/Exploratory-Data-Analysis.html"><img src="{{ site.github.url }}/assets/img/EDA_files/EDA_1.png"></a>
 
 
 ```python
