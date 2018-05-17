@@ -67,7 +67,7 @@ plt.show()
 ```
 
 
-![png](EDA_files/EDA_4_0.png)
+![alt text](https://github.com/rp4/rp4.github.io/blob/master/assets/img/EDA_files/EDA_1.png)
 
 
 
