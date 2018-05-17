@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: "Exploratory Data Analysis"
+author: "Richard Penfil"
+categories: facts
+tags: [documentation,sample]
+image: ledingclub_pic.jpg
+---
 
 ```python
 #Import Modules
