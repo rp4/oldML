@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Exploratory Data Analysis"
+author: "Richard Penfil"
+categories: Algorithm
+tags: [Decision Tree, Machine Learning]
+image: tree_head.jpg
+---
 
 #### Below is an example of a Decision Tree model. I used dataset (found here:https://www.kaggle.com/mlg-ulb/creditcardfraud/data), which contains credit card transactions over a two day period. The model created attempts to identify fraudulent transactions based on the provided (masked) attributes. Please see the Random Forest page or EDA for the data preparation details.
 
