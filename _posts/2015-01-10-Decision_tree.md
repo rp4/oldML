@@ -87,7 +87,7 @@ plt.xlabel('Predicted label')
 
 
 
-![png](Decision_tree_files/Decision_tree_3_1.png)
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/DT_files/EDA_1.png"><img src="{{ site.github.url }}/assets/img/DT_files/Decision_Tree_1.png"></a>
 
 
 
@@ -110,7 +110,7 @@ plt.show()
 ```
 
 
-![png](Decision_tree_files/Decision_tree_4_0.png)
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/DT_files/EDA_1.png"><img src="{{ site.github.url }}/assets/img/DT_files/Decision_Tree_2.png"></a>
 
 
 
