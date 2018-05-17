@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Naive Bayes"
+author: "Richard Penfil"
+categories: Algorithm
+tags: [Naive Bayes, Machine Learning]
+image: bayes.png
+---
 
 #### Below is an example of a Naive Bayes model. I used dataset (found here:https://www.kaggle.com/mlg-ulb/creditcardfraud/data), which contains credit card transactions over a two day period. The model created attempts to identify fraudulent transactions based on the provided (masked) attributes. Please see the Random Forest page or EDA for the data preparation details.
 
