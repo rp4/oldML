@@ -67,7 +67,7 @@ plt.show()
 ```
 
 
-<a href="https://rp4.github.io/algorithm/Exploratory-Data-Analysis.html"><img src="{{ site.github.url }}/assets/img/EDA_files/EDA_1.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/EDA_files/EDA_1.png"><img src="{{ site.github.url }}/assets/img/EDA_files/EDA_1.png"></a>
 
 
 ```python
@@ -370,7 +370,7 @@ plt.ylabel("Charge off rate")
 
 
 
-![png](EDA_files/EDA_13_1.png)
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/EDA_files/EDA_2.png"><img src="{{ site.github.url }}/assets/img/EDA_files/EDA_2.png"></a>
 
 
 As expected the riskier grades have higher charge off rates. We also see B grades and C grades are the most common.
@@ -396,8 +396,7 @@ plt.ylabel("Interest Rate")
 
 
 
-
-![png](EDA_files/EDA_15_1.png)
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/EDA_files/EDA_3.png"><img src="{{ site.github.url }}/assets/img/EDA_files/EDA_3.png"></a>
 
 
 Again, as expected the avg. interest rate is higher for riskier tiers, to accomodate for the higher charge off rates
@@ -426,7 +425,7 @@ plt.ylabel("Avg Loan Size")
 
 
 
-![png](EDA_files/EDA_17_1.png)
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/EDA_files/EDA_4.png"><img src="{{ site.github.url }}/assets/img/EDA_files/EDA_4.png"></a>
 
 
 Debt Consolidation and credit cards make up the majority of lending club loans
@@ -441,8 +440,7 @@ plt.figure(); ct.plot();
     <matplotlib.figure.Figure at 0x12f0b4b1b70>
 
 
-
-![png](EDA_files/EDA_19_1.png)
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/EDA_files/EDA_5.png"><img src="{{ site.github.url }}/assets/img/EDA_files/EDA_5.png"></a>
 
 
 The wild deviations in 2008 - 2010 can be attributed the small sample size. Also, the decreasing rates in 2017 are of course due to the immature loans
@@ -467,7 +465,7 @@ plt.show()
 ```
 
 
-![png](EDA_files/EDA_21_0.png)
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/EDA_files/EDA_6.png"><img src="{{ site.github.url }}/assets/img/EDA_files/EDA_6.png"></a>
 
 
 
