@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploratory Data Analysis"
+title: "Decision Tree"
 author: "Richard Penfil"
 categories: Algorithm
 tags: [Decision Tree, Machine Learning]
