@@ -70,7 +70,7 @@ plt.show()
     Name: loan_status, dtype: int64
     
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_Boost_1.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_Boost_1.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_boost_1.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_boost_1.png"></a>
 
 
 
@@ -157,7 +157,7 @@ plt.title('Variable Importance')
 plt.show()
 ```
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_Boost_2.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_Boost_2.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_boost_2.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_boost_2.png"></a>
 
 
 The Gradient Boosting model provides feature importance based on the amount of times each variable is used and the lift given from each variable. In this model, age appears as the most important variable, while bachelor status appears as the least important.
@@ -180,7 +180,7 @@ plt.subplots_adjust(top=0.9)
     
 
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_Boost_3.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_Boost_3.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_boost_3.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_boost_3.png"></a>
 
 
 Another bi-product of the Gradient Boosted Model is the partial dependence plot.
@@ -215,7 +215,7 @@ plt.ylabel('Deviance')
 
 
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_Boost_4.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_Boost_4.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_boost_4.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_boost_4.png"></a>
 
 
 While the Training Set Deviance decreases as the boosting iterations increase, the Test Set Deviance slightly increases. This suggests that the model is overfitting to the Training data with the additional iterations.
@@ -258,7 +258,7 @@ plt.xlabel('Predicted label')
 
 
 
-<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_Boost_5.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_Boost_5.png"></a>
+<a href="https://github.com/rp4/rp4.github.io/blob/master/assets/img/GB_files/Gradient_boost_5.png"><img src="{{ site.github.url }}/assets/img/GB_files/Gradient_boost_5.png"></a>
 
 
 
