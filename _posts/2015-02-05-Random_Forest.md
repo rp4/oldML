@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Random Forest"
-author: "Richard Penfil"
+author: "Rick"
 categories: Algorithm
 tags: [Random Forest, Machine Learning]
 image: Forest_pic.jpg
