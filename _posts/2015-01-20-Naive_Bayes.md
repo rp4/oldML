@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naive Bayes"
-author: "Richard Penfil"
+author: "Rick"
 categories: Algorithm
 tags: [Naive Bayes, Machine Learning]
 image: bayes.png
