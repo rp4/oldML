@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Decision Tree"
-author: "Richard Penfil"
+author: "Rick"
 categories: Algorithm
 tags: [Decision Tree, Machine Learning]
 image: tree_head.jpg
