@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gradient Boosting"
-author: "Richard Penfil"
+author: "Rick"
 categories: Algorithm
 tags: [Gradient Boosting, Machine Learning]
 image: gradient_boosting_head.jpg
